@@ -1,5 +1,5 @@
 
-  # ReadMe Generator
+  # Readme Generator
   
   ---
   ## Table of Contents
@@ -14,22 +14,22 @@
   ---
   ## Description
   
-  This application will assist users in creating a dynamic readme for their project
+  This application takes user responses to inquiry prompts within the command terminal to generate a working readme which can be used for a variety of projects.
   
   ---
   ## Installation
 
-  install liek another repo
+  To install this application, simply visit https://github.com/Guzzemetti/readme-generator and clone the SSH key from the repository. You can then use this SSH key to clone the repo to your machine.
 
   ---
   ## Usage
 
-  use in the terminal with node.js
+  Once the application has been successfully installed/cloned, you can open it within your terminal. To run the functions within, simply enter "node index.js", this will then populate the Inquirer prompts for a user to answer accordingly. 
 
   ---
   ## Testing
 
-  use node.js to test
+  Testing this application follows the same process as the usage.
 
   ---
   ## Contributors
@@ -37,16 +37,11 @@
   None
 
   ---
-  ## License
-
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  ---
   ## Contact
 
   ### Github
 
-  [Guzzemetti](https://github.com/users/Guzzemetti)
+  [Guzzemetti](https://github.com/Guzzemetti)
 
   ### Email 
 
@@ -57,5 +52,12 @@
 
   [https://github.com/Guzzemetti/readme-generator](https://github.com/Guzzemetti/readme-generator)
 
- 
+  ---
+  ## License
+
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
+
+  ## Additional Links
+
+  Screencastify Link: https://drive.google.com/file/d/1vczoCpt2ScJnvuUzffPkaVtrKo0qvlvL/view

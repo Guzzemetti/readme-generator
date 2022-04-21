@@ -18,7 +18,7 @@ function licenseCheck(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) { 
-  lisenceCheck()
+  licenseCheck()
   return `
   # ${data.project}
   
