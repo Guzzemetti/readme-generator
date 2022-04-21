@@ -1,45 +1,61 @@
 
-  # alksdnalsknd
+  # Readme Generator
   
+  ---
   ## Table of Contents
-
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributors](#contributors)
+  * [License](#license)
+  * [Contact](#contact)
+  * [Repository](#repository)
+  
+  ---
   ## Description
   
-  aslkdnalksnd
+  Generates Readmes
   
+  ---
   ## Installation
 
-  asdlkandlknasd
+  clone from my repo
 
+  ---
   ## Usage
 
-  aklsndlaknsdlk
+  clone to your machine adn then open in vscode
 
+  ---
   ## Testing
 
-  aslkdnalsnkda
+  you can test this with node.js
 
+  ---
   ## Contributors
 
-  lkansdlknasdl
+  none
 
+  ---
   ## License
 
-  APACHE 2.0
+  GPL 3.0  "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
 
+  ---
   ## Contact
 
   ### Github
 
-  laksndlaknds
+  Guzzemetti
 
   ### Email 
 
-  laknsdlkansd
+  GuzzemettiIV
 
+  ---
   ### Repository
 
-  lkansdlknasdl
+  none
 
  
   
