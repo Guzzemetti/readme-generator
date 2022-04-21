@@ -1,5 +1,5 @@
 
-  # Readme Generator
+  # ReadMe Generator
   
   ---
   ## Table of Contents
@@ -14,48 +14,48 @@
   ---
   ## Description
   
-  Generates Readmes
+  This application will assist users in creating a dynamic readme for their project
   
   ---
   ## Installation
 
-  clone from my repo
+  install liek another repo
 
   ---
   ## Usage
 
-  clone to your machine adn then open in vscode
+  use in the terminal with node.js
 
   ---
   ## Testing
 
-  you can test this with node.js
+  use node.js to test
 
   ---
   ## Contributors
 
-  none
+  None
 
   ---
   ## License
 
-  GPL 3.0  "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ---
   ## Contact
 
   ### Github
 
-  Guzzemetti
+  [Guzzemetti](https://github.com/users/Guzzemetti)
 
   ### Email 
 
-  GuzzemettiIV
+  [johnguzzettaiv@gmail.com](johnguzzettaiv@gmail.com)
 
   ---
   ### Repository
 
-  none
+  [https://github.com/Guzzemetti/readme-generator](https://github.com/Guzzemetti/readme-generator)
 
  
   
